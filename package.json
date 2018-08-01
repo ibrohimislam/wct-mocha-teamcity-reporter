@@ -1,0 +1,13 @@
+{
+  "name": "wct-mocha-teamcity-reporter",
+  "version": "1.0.4",
+  "main": "lib/plugin.js",
+  "repository": "https://github.com/ibrohimislam/wct-mocha-teamcity-reporter",
+  "author": "Ibrohim Kholilul Islam",
+  "license": "MIT",
+  "devDependencies": {
+    "web-component-tester": "^6.7.1",
+    "wct-browser-legacy": "^1.0.1"
+  },
+  "wct-plugin": {}
+}
